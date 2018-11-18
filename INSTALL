@@ -1,0 +1,9 @@
+Building Minato
+
+See doc/readme-qt.rst for instructions on building Minato-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Minato.
+
+See doc/build-*.txt for instructions on building Minatod,
+the intended-for-services, no-graphical-interface, reference
+implementation of Minato.

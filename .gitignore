@@ -1,0 +1,40 @@
+src/*.exe
+src/minato
+src/minatod
+src/test_minato
+src/qt/locale/*.qm
+release/*
+debug/*
+*.Debug
+*.Release
+minato-qt_plugin_import.cpp
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.minato
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+minato-qt
+minato-Qt.app
+
+# Unit-tests
+Makefile.test
+minato-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
