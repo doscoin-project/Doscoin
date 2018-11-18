@@ -5,6 +5,22 @@ then
 else
    echo "Please, run the script with root privileges" && exit
 fi
+echo "Checking if default version of libssl-dev is installed. Required libssl1.0-dev"
+dpkg -s libssl-dev | grep Status
+if [ $? = 0 ] 
+then
+   echo "Wrong libssl-dev version."
+   echo "Please run the following command and run the install script again"
+   echo "sudo apt-get remove --purge libssl-dev"
+   exit
+fi
+
+apt-get -y install build-essential libssl1.0-dev libdb-dev libdb++-dev libboost-all-dev git libdb-dev libdb++-dev libboost-all-dev libminiupnpc-dev libevent-dev libcrypto++-dev libgmp3-dev libminiupnpc-dev qt4-default libzmq3-dev
+if [ $? != 0 ]
+then
+   echo "Some packages have failed, please check"
+   exit
+fi
 echo "Checking if correct version of libssl-dev is installed. Required libssl1.0-dev"
 dpkg -s libssl1.0-dev | grep Status
 if [ $? != 0 ] 
@@ -15,12 +31,6 @@ then
    exit
 else
    echo "libssl-dev version. Beggining packages and dependencies needed installation"
-fi
-apt-get -y install build-essential libssl1.0-dev libdb-dev libdb++-dev libboost-all-dev git libdb-dev libdb++-dev libboost-all-dev libminiupnpc-dev libevent-dev libcrypto++-dev libgmp3-dev libminiupnpc-dev qt4-default libzmq3-dev
-if [ $? != 0 ]
-then
-   echo "Some packages have failed, please check"
-   exit
 fi
 add-apt-repository -y ppa:bitcoin/bitcoin 
 if [ $? != 0 ]
