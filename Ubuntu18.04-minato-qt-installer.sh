@@ -1,5 +1,5 @@
 echo "Checking if script is run with sudo or root user"
-if [ `id -u` = 0 }
+if [ `id -u` = 0 ] 
 then
    echo "Root privileges verified. Resuming installation"
 else
@@ -15,7 +15,7 @@ then
    exit
 fi
 
-apt-get -y install build-essential libssl1.0-dev libdb-dev libdb++-dev libboost-all-dev git libdb-dev libdb++-dev libboost-all-dev libminiupnpc-dev libevent-dev libcrypto++-dev libgmp3-dev libminiupnpc-dev qt4-default libzmq3-dev
+apt-get -y install libcanberra-gtk-module build-essential libssl1.0-dev libdb-dev libdb++-dev libboost-all-dev git libdb-dev libdb++-dev libboost-all-dev libminiupnpc-dev libevent-dev libcrypto++-dev libgmp3-dev libminiupnpc-dev qt4-default libzmq3-dev
 if [ $? != 0 ]
 then
    echo "Some packages have failed, please check"
