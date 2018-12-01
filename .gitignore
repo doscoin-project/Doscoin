@@ -1,13 +1,13 @@
 src/*.exe
-src/minato
-src/minatod
-src/test_minato
+src/doscoin
+src/doscoind
+src/test_doscoin
 src/qt/locale/*.qm
 release/*
 debug/*
 *.Debug
 *.Release
-minato-qt_plugin_import.cpp
+doscoin-qt_plugin_import.cpp
 .*.swp
 *.*~*
 *.bak
@@ -15,17 +15,17 @@ minato-qt_plugin_import.cpp
 *.orig
 *.o
 *.patch
-.minato
+.doscoin
 
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-minato-qt
-minato-Qt.app
+doscoin-qt
+doscoin-Qt.app
 
 # Unit-tests
 Makefile.test
-minato-qt_test
+doscoin-qt_test
 
 # Resources cpp
 qrc_*.cpp
