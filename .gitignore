@@ -2,12 +2,6 @@ src/*.exe
 src/doscoin
 src/doscoind
 src/test_doscoin
-src/qt/locale/*.qm
-release/*
-debug/*
-*.Debug
-*.Release
-doscoin-qt_plugin_import.cpp
 .*.swp
 *.*~*
 *.bak
@@ -21,7 +15,7 @@ doscoin-qt_plugin_import.cpp
 *.qm
 Makefile
 doscoin-qt
-doscoin-Qt.app
+Doscoin-Qt.app
 
 # Unit-tests
 Makefile.test
