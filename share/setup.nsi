@@ -1,4 +1,4 @@
-Name Minato
+Name Doscoin
 
 RequestExecutionLevel highest
 SetCompressor /SOLID lzma
@@ -6,8 +6,8 @@ SetCompressor /SOLID lzma
 # General Symbol Definitions
 !define REGKEY "SOFTWARE\$(^Name)"
 !define VERSION 0.8.10.2
-!define COMPANY "Minato project"
-!define URL http://www.minato.net/
+!define COMPANY "Doscoin project"
+!define URL http://www.doscoin.net/
 
 # MUI Symbol Definitions
 !define MUI_ICON "pixmaps/bitcoin.ico"
@@ -19,8 +19,8 @@ SetCompressor /SOLID lzma
 !define MUI_STARTMENUPAGE_REGISTRY_ROOT HKLM
 !define MUI_STARTMENUPAGE_REGISTRY_KEY ${REGKEY}
 !define MUI_STARTMENUPAGE_REGISTRY_VALUENAME StartMenuGroup
-!define MUI_STARTMENUPAGE_DEFAULTFOLDER Minato
-!define MUI_FINISHPAGE_RUN $INSTDIR\Minato-qt.exe
+!define MUI_STARTMENUPAGE_DEFAULTFOLDER Doscoin
+!define MUI_FINISHPAGE_RUN $INSTDIR\doscoin-qt.exe
 !define MUI_UNICON "${NSISDIR}\Contrib\Graphics\Icons\modern-uninstall.ico"
 !define MUI_UNWELCOMEFINISHPAGE_BITMAP "pixmaps/nsis-wizard.bmp"
 !define MUI_UNFINISHPAGE_NOAUTOCLOSE
@@ -45,14 +45,14 @@ Var StartMenuGroup
 !insertmacro MUI_LANGUAGE English
 
 # Installer attributes
-OutFile Minato-${VERSION}-setup.exe
-InstallDir $PROGRAMFILES\Minato
+OutFile Doscoin-${VERSION}-setup.exe
+InstallDir $PROGRAMFILES\Doscoin
 CRCCheck on
 XPStyle on
 BrandingText " "
 ShowInstDetails show
 VIProductVersion ${VERSION}
-VIAddVersionKey ProductName Minato
+VIAddVersionKey ProductName Doscoin
 VIAddVersionKey ProductVersion "${VERSION}"
 VIAddVersionKey CompanyName "${COMPANY}"
 VIAddVersionKey CompanyWebsite "${URL}"
@@ -66,7 +66,7 @@ ShowUninstDetails show
 Section -Main SEC0000
     SetOutPath $INSTDIR
     SetOverwrite on
-    File ../release/Minato-qt.exe
+    File ../release/doscoin-qt.exe
     File /oname=COPYING.txt ../COPYING
     SetOutPath $INSTDIR
     WriteRegStr HKCU "${REGKEY}\Components" Main 1
@@ -78,8 +78,8 @@ Section -post SEC0001
     WriteUninstaller $INSTDIR\uninstall.exe
     !insertmacro MUI_STARTMENU_WRITE_BEGIN Application
     CreateDirectory $SMPROGRAMS\$StartMenuGroup
-    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\Minato.lnk" $INSTDIR\Minato-qt.exe
-    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\Uninstall Minato.lnk" $INSTDIR\uninstall.exe
+    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\Doscoin.lnk" $INSTDIR\doscoin-qt.exe
+    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\Uninstall Doscoin.lnk" $INSTDIR\uninstall.exe
     !insertmacro MUI_STARTMENU_WRITE_END
     WriteRegStr HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" DisplayName "$(^Name)"
     WriteRegStr HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" DisplayVersion "${VERSION}"
@@ -89,10 +89,10 @@ Section -post SEC0001
     WriteRegStr HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" UninstallString $INSTDIR\uninstall.exe
     WriteRegDWORD HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" NoModify 1
     WriteRegDWORD HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" NoRepair 1
-    WriteRegStr HKCR "Minato" "URL Protocol" ""
-    WriteRegStr HKCR "Minato" "" "URL:Minato"
-    WriteRegStr HKCR "Minato\DefaultIcon" "" $INSTDIR\Minato-qt.exe
-    WriteRegStr HKCR "Minato\shell\open\command" "" '"$INSTDIR\Minato-qt.exe" "%1"'
+    WriteRegStr HKCR "Doscoin" "URL Protocol" ""
+    WriteRegStr HKCR "Doscoin" "" "URL:Doscoin"
+    WriteRegStr HKCR "Doscoin\DefaultIcon" "" $INSTDIR\doscoin-qt.exe
+    WriteRegStr HKCR "Doscoin\shell\open\command" "" '"$INSTDIR\doscoin-qt.exe" "%1"'
 SectionEnd
 
 # Macro for selecting uninstaller sections
@@ -110,16 +110,16 @@ done${UNSECTION_ID}:
 
 # Uninstaller sections
 Section /o -un.Main UNSEC0000
-    Delete /REBOOTOK $INSTDIR\Minato-qt.exe
+    Delete /REBOOTOK $INSTDIR\doscoin-qt.exe
     Delete /REBOOTOK $INSTDIR\COPYING.txt
     DeleteRegValue HKCU "${REGKEY}\Components" Main
 SectionEnd
 
 Section -un.post UNSEC0001
     DeleteRegKey HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)"
-    Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\Uninstall Minato.lnk"
-    Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\Minato.lnk"
-    Delete /REBOOTOK "$SMSTARTUP\Minato.lnk"
+    Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\Uninstall Doscoin.lnk"
+    Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\Doscoin.lnk"
+    Delete /REBOOTOK "$SMSTARTUP\Doscoin.lnk"
     Delete /REBOOTOK $INSTDIR\uninstall.exe
     Delete /REBOOTOK $INSTDIR\debug.log
     Delete /REBOOTOK $INSTDIR\db.log
@@ -127,7 +127,7 @@ Section -un.post UNSEC0001
     DeleteRegValue HKCU "${REGKEY}" Path
     DeleteRegKey /IfEmpty HKCU "${REGKEY}\Components"
     DeleteRegKey /IfEmpty HKCU "${REGKEY}"
-    DeleteRegKey HKCR "Minato"
+    DeleteRegKey HKCR "Doscoin"
     RmDir /REBOOTOK $SMPROGRAMS\$StartMenuGroup
     RmDir /REBOOTOK $INSTDIR
     Push $R0

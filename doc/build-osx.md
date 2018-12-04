@@ -1,4 +1,4 @@
-Mac OS X Minatod build instructions
+Mac OS X doscoind build instructions
 ====================================
 
 Authors
@@ -26,7 +26,7 @@ Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.
 Notes
 -----
 
-See `doc/readme-qt.rst` for instructions on building Minato-Qt, the
+See `doc/readme-qt.rst` for instructions on building Doscoin-Qt, the
 graphical user interface.
 
 Tested on OS X 10.5 through 10.8 on Intel processors only. PPC is not
@@ -72,14 +72,14 @@ Installing the dependencies using MacPorts is very straightforward.
 
     sudo port install boost db48@+no_java openssl miniupnpc
 
-### Building `Minatod`
+### Building `doscoind`
 
 1. Clone the github tree to get the source code and go into the directory.
 
-        git clone git@github.com:Minato-project/Minato.git Minato
-        cd Minato
+        git clone git@github.com:Doscoin-project/Doscoin.git Doscoin
+        cd Doscoin
 
-2.  Build Minatod:
+2.  Build doscoind:
 
         cd src
         make -f makefile.osx
@@ -107,12 +107,12 @@ If not, you can ensure that the Brew OpenSSL is correctly linked by running
 
 Rerunning "openssl version" should now return the correct version.
 
-### Building `Minatod`
+### Building `doscoind`
 
 1. Clone the github tree to get the source code and go into the directory.
 
-        git clone git@github.com:Minato-project/Minato.git Minato
-        cd Minato
+        git clone git@github.com:Doscoin-project/Doscoin.git Doscoin
+        cd Doscoin
 
 2.  Modify source in order to pick up the `openssl` library.
 
@@ -122,7 +122,7 @@ Rerunning "openssl version" should now return the correct version.
 
         patch -p1 < contrib/homebrew/makefile.osx.patch
 
-3.  Build Minatod:
+3.  Build doscoind:
 
         cd src
         make -f makefile.osx
@@ -134,8 +134,8 @@ Rerunning "openssl version" should now return the correct version.
 Creating a release build
 ------------------------
 
-A Minatod binary is not included in the Minato-Qt.app bundle. You can ignore
-this section if you are building `Minatod` for your own use.
+A doscoind binary is not included in the Doscoin-Qt.app bundle. You can ignore
+this section if you are building `doscoind` for your own use.
 
 If you are building `litecond` for others, your build machine should be set up
 as follows for maximum compatibility:
@@ -156,30 +156,30 @@ As of December 2012, the `boost` port does not obey `macosx_deployment_target`.
 Download `http://gavinandresen-bitcoin.s3.amazonaws.com/boost_macports_fix.zip`
 for a fix. Some ports also seem to obey either `build_arch` or
 `macosx_deployment_target`, but not both at the same time. For example, building
-on an OS X 10.6 64-bit machine fails. Official release builds of Minato-Qt are
+on an OS X 10.6 64-bit machine fails. Official release builds of Doscoin-Qt are
 compiled on an OS X 10.6 32-bit machine to workaround that problem.
 
-Once dependencies are compiled, creating `Minato-Qt.app` is easy:
+Once dependencies are compiled, creating `Doscoin-Qt.app` is easy:
 
     make -f Makefile.osx RELEASE=1
 
 Running
 -------
 
-It's now available at `./Minatod`, provided that you are still in the `src`
+It's now available at `./doscoind`, provided that you are still in the `src`
 directory. We have to first create the RPC configuration file, though.
 
-Run `./Minatod` to get the filename where it should be put, or just try these
+Run `./doscoind` to get the filename where it should be put, or just try these
 commands:
 
-    echo -e "rpcuser=Minatorpc\nrpcpassword=$(xxd -l 16 -p /dev/urandom)" > "/Users/${USER}/Library/Application Support/Minato/Minato.conf"
-    chmod 600 "/Users/${USER}/Library/Application Support/Minato/Minato.conf"
+    echo -e "rpcuser=Doscoinrpc\nrpcpassword=$(xxd -l 16 -p /dev/urandom)" > "/Users/${USER}/Library/Application Support/Doscoin/Doscoin.conf"
+    chmod 600 "/Users/${USER}/Library/Application Support/Doscoin/Doscoin.conf"
 
 When next you run it, it will start downloading the blockchain, but it won't
 output anything while it's doing this. This process may take several hours.
 
 Other commands:
 
-    ./Minatod --help  # for a list of command-line options.
-    ./Minatod -daemon # to start the Minato daemon.
-    ./Minatod help    # When the daemon is running, to get a list of RPC commands
+    ./doscoind --help  # for a list of command-line options.
+    ./doscoind -daemon # to start the Doscoin daemon.
+    ./doscoind help    # When the daemon is running, to get a list of RPC commands

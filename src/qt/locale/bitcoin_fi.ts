@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Minato</source>
-        <translation>Tietoa Minatoista</translation>
+        <source>About Doscoin</source>
+        <translation>Tietoa Doscoinista</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Minato&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Minato&lt;/b&gt; versio</translation>
+        <source>&lt;b&gt;Doscoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Doscoin&lt;/b&gt; versio</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -35,7 +35,7 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+0"/>
-        <source>The Minato developers</source>
+        <source>The Doscoin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -68,8 +68,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Minato addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Nämä ovat Minato-osoitteesi joihin voit vastaanottaa maksuja. Voit haluta antaa jokaiselle maksajalle omansa, että pystyt seuraamaan keneltä maksut tulevat.</translation>
+        <source>These are your Doscoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Nämä ovat Doscoin-osoitteesi joihin voit vastaanottaa maksuja. Voit haluta antaa jokaiselle maksajalle omansa, että pystyt seuraamaan keneltä maksut tulevat.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -83,8 +83,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Minato address</source>
-        <translation>Allekirjoita viesti todistaaksesi, että omistat Minato-osoitteen</translation>
+        <source>Sign a message to prove you own a Doscoin address</source>
+        <translation>Allekirjoita viesti todistaaksesi, että omistat Doscoin-osoitteen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -108,8 +108,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Minato address</source>
-        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä Minato-osoitteella</translation>
+        <source>Verify a message to ensure it was signed with a specified Doscoin address</source>
+        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä Doscoin-osoitteella</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -123,7 +123,7 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Minato addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Doscoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -249,8 +249,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR MinatoS&lt;/b&gt;!</source>
-        <translation>Varoitus: Jos salaat lompakkosi ja menetät tunnuslauseesi, &lt;b&gt;MENETÄT KAIKKI MinatoISI&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DoscoinS&lt;/b&gt;!</source>
+        <translation>Varoitus: Jos salaat lompakkosi ja menetät tunnuslauseesi, &lt;b&gt;MENETÄT KAIKKI DoscoinISI&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -276,8 +276,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="-56"/>
-        <source>Minato will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Minatos from being stolen by malware infecting your computer.</source>
-        <translation>Minato sulkeutuu lopettaakseen salausprosessin. Muista, että salattukaan lompakko ei täysin suojaa sitä haittaohjelmien aiheuttamilta varkauksilta.</translation>
+        <source>Doscoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Doscoins from being stolen by malware infecting your computer.</source>
+        <translation>Doscoin sulkeutuu lopettaakseen salausprosessin. Muista, että salattukaan lompakko ei täysin suojaa sitä haittaohjelmien aiheuttamilta varkauksilta.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -361,7 +361,7 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     <message>
         <location line="-14"/>
         <source>Show the list of addresses for receiving payments</source>
-        <translation>Näytä Minatoien vastaanottamiseen käytetyt osoitteet</translation>
+        <translation>Näytä Doscoinien vastaanottamiseen käytetyt osoitteet</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -375,8 +375,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Minato</source>
-        <translation>Näytä tietoa Minato-projektista</translation>
+        <source>Show information about Doscoin</source>
+        <translation>Näytä tietoa Doscoin-projektista</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -420,13 +420,13 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Minato address</source>
-        <translation>Lähetä kolikoita Minato-osoitteeseen</translation>
+        <source>Send coins to a Doscoin address</source>
+        <translation>Lähetä kolikoita Doscoin-osoitteeseen</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Minato</source>
-        <translation>Muuta Minatoin konfiguraatioasetuksia</translation>
+        <source>Modify configuration options for Doscoin</source>
+        <translation>Muuta Doscoinin konfiguraatioasetuksia</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -456,8 +456,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Minato</source>
-        <translation>Minato</translation>
+        <source>Doscoin</source>
+        <translation>Doscoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -481,8 +481,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Minato</source>
-        <translation>&amp;Tietoa Minatoista</translation>
+        <source>&amp;About Doscoin</source>
+        <translation>&amp;Tietoa Doscoinista</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -492,7 +492,7 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     <message>
         <location line="+1"/>
         <source>Show or hide the main Window</source>
-        <translation>Näytä tai piilota Minato-ikkuna</translation>
+        <translation>Näytä tai piilota Doscoin-ikkuna</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -501,13 +501,13 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Minato addresses to prove you own them</source>
-        <translation>Allekirjoita viestisi omalla Minato -osoitteellasi todistaaksesi, että omistat ne</translation>
+        <source>Sign messages with your Doscoin addresses to prove you own them</source>
+        <translation>Allekirjoita viestisi omalla Doscoin -osoitteellasi todistaaksesi, että omistat ne</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Minato addresses</source>
-        <translation>Varmista, että viestisi on allekirjoitettu määritetyllä Minato -osoitteella</translation>
+        <source>Verify messages to ensure they were signed with specified Doscoin addresses</source>
+        <translation>Varmista, että viestisi on allekirjoitettu määritetyllä Doscoin -osoitteella</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -537,13 +537,13 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+47"/>
-        <source>Minato client</source>
-        <translation>Minato-asiakas</translation>
+        <source>Doscoin client</source>
+        <translation>Doscoin-asiakas</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Minato network</source>
-        <translation><numerusform>%n aktiivinen yhteys Minato-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä Minato-verkkoon</numerusform></translation>
+        <source>%n active connection(s) to Doscoin network</source>
+        <translation><numerusform>%n aktiivinen yhteys Doscoin-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä Doscoin-verkkoon</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -656,8 +656,8 @@ Osoite: %4</translation>
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Minato address or malformed URI parameters.</source>
-        <translation>URIa ei voitu jäsentää! Tämä voi johtua kelvottomasta Minato-osoitteesta tai virheellisistä URI parametreista.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Doscoin address or malformed URI parameters.</source>
+        <translation>URIa ei voitu jäsentää! Tämä voi johtua kelvottomasta Doscoin-osoitteesta tai virheellisistä URI parametreista.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,8 +671,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Minato can no longer continue safely and will quit.</source>
-        <translation>Peruuttamaton virhe on tapahtunut. Minato ei voi enää jatkaa turvallisesti ja sammutetaan.</translation>
+        <source>A fatal error occurred. Doscoin can no longer continue safely and will quit.</source>
+        <translation>Peruuttamaton virhe on tapahtunut. Doscoin ei voi enää jatkaa turvallisesti ja sammutetaan.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Minato address.</source>
-        <translation>Antamasi osoite &quot;%1&quot; ei ole validi Minato-osoite.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Doscoin address.</source>
+        <translation>Antamasi osoite &quot;%1&quot; ei ole validi Doscoin-osoite.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Osoite: %4</translation>
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Minato-Qt</source>
-        <translation>Minato-Qt</translation>
+        <source>Doscoin-Qt</source>
+        <translation>Doscoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Minato after logging in to the system.</source>
-        <translation>Käynnistä Minato kirjautumisen yhteydessä.</translation>
+        <source>Automatically start Doscoin after logging in to the system.</source>
+        <translation>Käynnistä Doscoin kirjautumisen yhteydessä.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Minato on system login</source>
-        <translation>&amp;Käynnistä Minato kirjautumisen yhteydessä</translation>
+        <source>&amp;Start Doscoin on system login</source>
+        <translation>&amp;Käynnistä Doscoin kirjautumisen yhteydessä</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,8 +844,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Minato client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avaa Minato-asiakasohjelman portti reitittimellä automaattisesti. Tämä toimii vain, jos reitittimesi tukee UPnP:tä ja se on käytössä.</translation>
+        <source>Automatically open the Doscoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avaa Doscoin-asiakasohjelman portti reitittimellä automaattisesti. Tämä toimii vain, jos reitittimesi tukee UPnP:tä ja se on käytössä.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -854,8 +854,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Minato network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Ota yhteys Minato-verkkoon SOCKS-proxyn läpi (esimerkiksi kun haluat käyttää Tor-verkkoa).</translation>
+        <source>Connect to the Doscoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Ota yhteys Doscoin-verkkoon SOCKS-proxyn läpi (esimerkiksi kun haluat käyttää Tor-verkkoa).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -910,7 +910,7 @@ Osoite: %4</translation>
     <message>
         <location line="+7"/>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>Ikkunaa suljettaessa vain pienentää Minato-ohjelman ikkunan lopettamatta itse ohjelmaa. Kun tämä asetus on valittuna, ohjelman voi sulkea vain valitsemalla Lopeta ohjelman valikosta.</translation>
+        <translation>Ikkunaa suljettaessa vain pienentää Doscoin-ohjelman ikkunan lopettamatta itse ohjelmaa. Kun tämä asetus on valittuna, ohjelman voi sulkea vain valitsemalla Lopeta ohjelman valikosta.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,23 +929,23 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Minato.</source>
-        <translation>Tässä voit määritellä käyttöliittymän kielen. Muutokset astuvat voimaan seuraavan kerran, kun Minato käynnistetään.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Doscoin.</source>
+        <translation>Tässä voit määritellä käyttöliittymän kielen. Muutokset astuvat voimaan seuraavan kerran, kun Doscoin käynnistetään.</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>Yksikkö jona Minato-määrät näytetään</translation>
+        <translation>Yksikkö jona Doscoin-määrät näytetään</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Valitse mitä yksikköä käytetään ensisijaisesti Minato-määrien näyttämiseen.</translation>
+        <translation>Valitse mitä yksikköä käytetään ensisijaisesti Doscoin-määrien näyttämiseen.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Minato addresses in the transaction list or not.</source>
-        <translation>Näytetäänkö Minato-osoitteet rahansiirrot listassa vai ei.</translation>
+        <source>Whether to show Doscoin addresses in the transaction list or not.</source>
+        <translation>Näytetäänkö Doscoin-osoitteet rahansiirrot listassa vai ei.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,8 +996,8 @@ Osoite: %4</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Minato.</source>
-        <translation>Tämä asetus astuu voimaan seuraavalla kerralla, kun Minato käynnistetään.</translation>
+        <source>This setting will take effect after restarting Doscoin.</source>
+        <translation>Tämä asetus astuu voimaan seuraavalla kerralla, kun Doscoin käynnistetään.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,8 +1015,8 @@ Osoite: %4</translation>
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Minato network after a connection is established, but this process has not completed yet.</source>
-        <translation>Näytetyt tiedot eivät välttämättä ole ajantasalla. Lompakkosi synkronoituu Minato-verkon kanssa automaattisesti yhteyden muodostamisen jälkeen, mutta synkronointi on vielä meneillään.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Doscoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Näytetyt tiedot eivät välttämättä ole ajantasalla. Lompakkosi synkronoituu Doscoin-verkon kanssa automaattisesti yhteyden muodostamisen jälkeen, mutta synkronointi on vielä meneillään.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1051,12 +1051,12 @@ Osoite: %4</translation>
     <message>
         <location line="-101"/>
         <source>Your current balance</source>
-        <translation>Tililläsi tällä hetkellä olevien Minatoien määrä</translation>
+        <translation>Tililläsi tällä hetkellä olevien Doscoinien määrä</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the current balance</source>
-        <translation>Niiden saapuvien rahansiirtojen määrä, joita Minato-verkko ei vielä ole ehtinyt vahvistaa ja siten eivät vielä näy saldossa.</translation>
+        <translation>Niiden saapuvien rahansiirtojen määrä, joita Doscoin-verkko ei vielä ole ehtinyt vahvistaa ja siten eivät vielä näy saldossa.</translation>
     </message>
     <message>
         <location filename="../overviewpage.cpp" line="+116"/>
@@ -1069,7 +1069,7 @@ Osoite: %4</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start Minato: click-to-pay handler</source>
+        <source>Cannot start Doscoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1219,8 +1219,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Minato-Qt help message to get a list with possible Minato command-line options.</source>
-        <translation>Näytä Minato-Qt komentoriviparametrien ohjesivu, jossa on listattuna mahdolliset komentoriviparametrit.</translation>
+        <source>Show the Doscoin-Qt help message to get a list with possible Doscoin command-line options.</source>
+        <translation>Näytä Doscoin-Qt komentoriviparametrien ohjesivu, jossa on listattuna mahdolliset komentoriviparametrit.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1239,13 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Minato - Debug window</source>
-        <translation>Minato - Debug ikkuna</translation>
+        <source>Doscoin - Debug window</source>
+        <translation>Doscoin - Debug ikkuna</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Minato Core</source>
-        <translation>Minato-ydin</translation>
+        <source>Doscoin Core</source>
+        <translation>Doscoin-ydin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,7 +1254,7 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Minato debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Doscoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Avaa lokitiedosto nykyisestä data-kansiosta. Tämä voi viedä useamman sekunnin, jos lokitiedosto on iso.</translation>
     </message>
     <message>
@@ -1264,8 +1264,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Minato RPC console.</source>
-        <translation>Tervetuloa Minato RPC konsoliin.</translation>
+        <source>Welcome to the Doscoin RPC console.</source>
+        <translation>Tervetuloa Doscoin RPC konsoliin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1290,7 +1290,7 @@ Osoite: %4</translation>
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Lähetä Minatoeja</translation>
+        <translation>Lähetä Doscoineja</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -1340,7 +1340,7 @@ Osoite: %4</translation>
     <message>
         <location line="+5"/>
         <source>Confirm send coins</source>
-        <translation>Hyväksy Minatoien lähettäminen</translation>
+        <translation>Hyväksy Doscoinien lähettäminen</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1360,7 +1360,7 @@ Osoite: %4</translation>
     <message>
         <location line="+5"/>
         <source>The amount to pay must be larger than 0.</source>
-        <translation>Maksettavan summan tulee olla suurempi kuin 0 Minatoia.</translation>
+        <translation>Maksettavan summan tulee olla suurempi kuin 0 Doscoinia.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1385,7 +1385,7 @@ Osoite: %4</translation>
     <message>
         <location line="+5"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Virhe: Rahansiirto hylättiin.  Tämä voi tapahtua jos jotkin Minatoeistasi on jo käytetty, esimerkiksi jos olet käyttänyt kopiota wallet.dat-lompakkotiedostosta ja Minatoit on merkitty käytetyksi vain kopiossa.</translation>
+        <translation>Virhe: Rahansiirto hylättiin.  Tämä voi tapahtua jos jotkin Doscoineistasi on jo käytetty, esimerkiksi jos olet käyttänyt kopiota wallet.dat-lompakkotiedostosta ja Doscoinit on merkitty käytetyksi vain kopiossa.</translation>
     </message>
 </context>
 <context>
@@ -1448,8 +1448,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Minato address (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
-        <translation>Anna Minato-osoite (esim. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
+        <source>Enter a Doscoin address (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
+        <translation>Anna Doscoin-osoite (esim. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
     </message>
 </context>
 <context>
@@ -1513,8 +1513,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Minato address</source>
-        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän Minato-osoitteen</translation>
+        <source>Sign the message to prove you own this Doscoin address</source>
+        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän Doscoin-osoitteen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1549,8 +1549,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Minato address</source>
-        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä Minato-osoitteella</translation>
+        <source>Verify the message to ensure it was signed with the specified Doscoin address</source>
+        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä Doscoin-osoitteella</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Osoite: %4</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Minato address (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
-        <translation>Anna Minato-osoite (esim. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
+        <source>Enter a Doscoin address (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
+        <translation>Anna Doscoin-osoite (esim. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Minato signature</source>
-        <translation>Syötä Minato-allekirjoitus</translation>
+        <source>Enter Doscoin signature</source>
+        <translation>Syötä Doscoin-allekirjoitus</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,7 +1649,7 @@ Osoite: %4</translation>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Minato developers</source>
+        <source>The Doscoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1955,7 +1955,7 @@ Osoite: %4</translation>
     <message>
         <location line="+2"/>
         <source>Destination address of transaction.</source>
-        <translation>Rahansiirron kohteen Minato-osoite</translation>
+        <translation>Rahansiirron kohteen Doscoin-osoite</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2137,7 +2137,7 @@ Osoite: %4</translation>
     <message>
         <location filename="../walletmodel.cpp" line="+193"/>
         <source>Send Coins</source>
-        <translation>Lähetä Minatoeja</translation>
+        <translation>Lähetä Doscoineja</translation>
     </message>
 </context>
 <context>
@@ -2187,8 +2187,8 @@ Osoite: %4</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Minato version</source>
-        <translation>Minatoin versio</translation>
+        <source>Doscoin version</source>
+        <translation>Doscoinin versio</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2197,8 +2197,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or Minatod</source>
-        <translation>Lähetä käsky palvelimelle tai Minatod:lle</translation>
+        <source>Send command to -server or doscoind</source>
+        <translation>Lähetä käsky palvelimelle tai doscoind:lle</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2217,13 +2217,13 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: Minato.conf)</source>
-        <translation>Määritä asetustiedosto (oletus: Minato.conf)</translation>
+        <source>Specify configuration file (default: Doscoin.conf)</source>
+        <translation>Määritä asetustiedosto (oletus: Doscoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: Minatod.pid)</source>
-        <translation>Määritä pid-tiedosto (oletus: Minato.pid)</translation>
+        <source>Specify pid file (default: doscoind.pid)</source>
+        <translation>Määritä pid-tiedosto (oletus: Doscoin.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2300,13 +2300,13 @@ Osoite: %4</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=Minatorpc
+rpcuser=Doscoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Doscoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2322,7 +2322,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Minato is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Doscoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2367,8 +2367,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Minato will not work properly.</source>
-        <translation>Varoitus: Tarkista että tietokoneesi kellonaika ja päivämäärä ovat paikkansapitäviä! Minato ei toimi oikein väärällä päivämäärällä ja/tai kellonajalla.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Doscoin will not work properly.</source>
+        <translation>Varoitus: Tarkista että tietokoneesi kellonaika ja päivämäärä ovat paikkansapitäviä! Doscoin ei toimi oikein väärällä päivämäärällä ja/tai kellonajalla.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2617,8 +2617,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Minato Wiki for SSL setup instructions)</source>
-        <translation>SSL asetukset (katso Minato Wikistä tarkemmat SSL ohjeet)</translation>
+        <source>SSL options: (see the Doscoin Wiki for SSL setup instructions)</source>
+        <translation>SSL asetukset (katso Doscoin Wikistä tarkemmat SSL ohjeet)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2808,13 +2808,13 @@ TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Minato</source>
-        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Tarvitset uudemman version Minatoista</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Doscoin</source>
+        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Tarvitset uudemman version Doscoinista</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Minato to complete</source>
-        <translation>Lompakko tarvitsee uudelleenkirjoittaa: käynnistä Minato uudelleen</translation>
+        <source>Wallet needed to be rewritten: restart Doscoin to complete</source>
+        <translation>Lompakko tarvitsee uudelleenkirjoittaa: käynnistä Doscoin uudelleen</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2873,8 +2873,8 @@ TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</translation>
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Minato is probably already running.</source>
-        <translation>Kytkeytyminen %s ei onnistu tällä tietokoneella. Minato on todennäköisesti jo ajamassa.</translation>
+        <source>Unable to bind to %s on this computer. Doscoin is probably already running.</source>
+        <translation>Kytkeytyminen %s ei onnistu tällä tietokoneella. Doscoin on todennäköisesti jo ajamassa.</translation>
     </message>
     <message>
         <location line="+64"/>

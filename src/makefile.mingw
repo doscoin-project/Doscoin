@@ -112,7 +112,7 @@ OBJS= \
     obj/simd.o \
 	obj/checkpointsync.o
 
-all: Minatod.exe
+all: doscoind.exe
 
 #
 # LevelDB support
@@ -129,11 +129,11 @@ obj/%.o: %.cpp $(HEADERS)
 obj/%.o: %.c $(HEADERS)
 	$(CXX) -c $(CFLAGS) -fpermissive -o $@ $<
 	
-Minatod.exe: $(OBJS:obj/%=obj/%)
+doscoind.exe: $(OBJS:obj/%=obj/%)
 	$(CXX) $(CFLAGS) $(LDFLAGS) -o $@ $(LIBPATHS) $^ $(LIBS)
 
 clean:
-	rm -f Minatod.exe
+	rm -f doscoind.exe
 	rm -f obj/*
 	cd leveldb && $(MAKE) TARGET_OS=NATIVE_WINDOWS clean && cd ..
 

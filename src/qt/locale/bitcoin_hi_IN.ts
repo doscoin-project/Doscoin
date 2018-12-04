@@ -4,12 +4,12 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Minato</source>
+        <source>About Doscoin</source>
         <translation>बिटकोइन के संबंध में</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Minato&lt;/b&gt; version</source>
+        <source>&lt;b&gt;Doscoin&lt;/b&gt; version</source>
         <translation>बिटकोइन वर्सन</translation>
     </message>
     <message>
@@ -29,7 +29,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The Minato developers</source>
+        <source>The Doscoin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -62,7 +62,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Minato addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your Doscoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -77,7 +77,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Minato address</source>
+        <source>Sign a message to prove you own a Doscoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -102,7 +102,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Minato address</source>
+        <source>Verify a message to ensure it was signed with a specified Doscoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -117,7 +117,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Minato addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Doscoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -243,7 +243,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR MinatoS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DoscoinS&lt;/b&gt;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -270,7 +270,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>Minato will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Minatos from being stolen by malware infecting your computer.</source>
+        <source>Doscoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Doscoins from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -370,7 +370,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Minato</source>
+        <source>Show information about Doscoin</source>
         <translation>बीटकोइन के बारे में जानकारी !</translation>
     </message>
     <message>
@@ -415,12 +415,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Minato address</source>
+        <source>Send coins to a Doscoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Minato</source>
+        <source>Modify configuration options for Doscoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -451,7 +451,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Minato</source>
+        <source>Doscoin</source>
         <translation>बीटकोइन</translation>
     </message>
     <message>
@@ -476,7 +476,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Minato</source>
+        <source>&amp;About Doscoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -496,12 +496,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Minato addresses to prove you own them</source>
+        <source>Sign messages with your Doscoin addresses to prove you own them</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Minato addresses</source>
+        <source>Verify messages to ensure they were signed with specified Doscoin addresses</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -532,12 +532,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>Minato client</source>
+        <source>Doscoin client</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Minato network</source>
+        <source>%n active connection(s) to Doscoin network</source>
         <translation><numerusform>%n सक्रिया संपर्क बीटकोइन नेटवर्क से</numerusform><numerusform>%n सक्रिया संपर्क बीटकोइन नेटवर्क से</numerusform></translation>
     </message>
     <message>
@@ -651,7 +651,7 @@ Address: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Minato address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid Doscoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -666,7 +666,7 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Minato can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Doscoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -732,7 +732,7 @@ Address: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Minato address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid Doscoin address.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -751,7 +751,7 @@ Address: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Minato-Qt</source>
+        <source>Doscoin-Qt</source>
         <translation>बीटकोइन-Qt</translation>
     </message>
     <message>
@@ -814,12 +814,12 @@ Address: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Minato after logging in to the system.</source>
+        <source>Automatically start Doscoin after logging in to the system.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Minato on system login</source>
+        <source>&amp;Start Doscoin on system login</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -839,7 +839,7 @@ Address: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Minato client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the Doscoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -849,7 +849,7 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Minato network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Doscoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -924,7 +924,7 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Minato.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Doscoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -939,7 +939,7 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Minato addresses in the transaction list or not.</source>
+        <source>Whether to show Doscoin addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -991,7 +991,7 @@ Address: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Minato.</source>
+        <source>This setting will take effect after restarting Doscoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1010,7 +1010,7 @@ Address: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Minato network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Doscoin network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1064,7 +1064,7 @@ Address: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start Minato: click-to-pay handler</source>
+        <source>Cannot start Doscoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1215,7 +1215,7 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Minato-Qt help message to get a list with possible Minato command-line options.</source>
+        <source>Show the Doscoin-Qt help message to get a list with possible Doscoin command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1235,12 +1235,12 @@ Address: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Minato - Debug window</source>
+        <source>Doscoin - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>Minato Core</source>
+        <source>Doscoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1250,7 +1250,7 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Minato debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Doscoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1260,7 +1260,7 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Minato RPC console.</source>
+        <source>Welcome to the Doscoin RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1444,8 +1444,8 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Minato address (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
-        <translation>Minato एड्रेस लिखें (उदाहरण: H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
+        <source>Enter a Doscoin address (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
+        <translation>Doscoin एड्रेस लिखें (उदाहरण: H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
     </message>
 </context>
 <context>
@@ -1509,7 +1509,7 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Minato address</source>
+        <source>Sign the message to prove you own this Doscoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1545,7 +1545,7 @@ Address: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Minato address</source>
+        <source>Verify the message to ensure it was signed with the specified Doscoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1561,8 +1561,8 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Minato address (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
-        <translation>Minato एड्रेस लिखें (उदाहरण: H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
+        <source>Enter a Doscoin address (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
+        <translation>Doscoin एड्रेस लिखें (उदाहरण: H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1571,7 +1571,7 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Minato signature</source>
+        <source>Enter Doscoin signature</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1645,7 +1645,7 @@ Address: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Minato developers</source>
+        <source>The Doscoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2183,7 +2183,7 @@ Address: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Minato version</source>
+        <source>Doscoin version</source>
         <translation>बीटकोइन  संस्करण</translation>
     </message>
     <message>
@@ -2193,8 +2193,8 @@ Address: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or Minatod</source>
-        <translation>-server या Minatod को कमांड भेजें</translation>
+        <source>Send command to -server or doscoind</source>
+        <translation>-server या doscoind को कमांड भेजें</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2213,13 +2213,13 @@ Address: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: Minato.conf)</source>
-        <translation>configuraion की फाइल का विवरण दें (default: Minato.conf)</translation>
+        <source>Specify configuration file (default: Doscoin.conf)</source>
+        <translation>configuraion की फाइल का विवरण दें (default: Doscoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: Minatod.pid)</source>
-        <translation>pid फाइल का विवरण दें (default: Minato.pid)</translation>
+        <source>Specify pid file (default: doscoind.pid)</source>
+        <translation>pid फाइल का विवरण दें (default: Doscoin.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2296,13 +2296,13 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=Minatorpc
+rpcuser=Doscoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Doscoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2318,7 +2318,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Minato is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Doscoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2363,7 +2363,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Minato will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Doscoin will not work properly.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2613,7 +2613,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Minato Wiki for SSL setup instructions)</source>
+        <source>SSL options: (see the Doscoin Wiki for SSL setup instructions)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2803,12 +2803,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Minato</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Doscoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Minato to complete</source>
+        <source>Wallet needed to be rewritten: restart Doscoin to complete</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2868,7 +2868,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Minato is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Doscoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

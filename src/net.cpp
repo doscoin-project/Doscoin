@@ -1116,7 +1116,7 @@ void ThreadMapPort()
             }
         }
 
-        string strDesc = "Minato " + FormatFullVersion();
+        string strDesc = "Doscoin " + FormatFullVersion();
 
         try {
             loop {
@@ -1196,10 +1196,6 @@ void MapPort(bool)
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strMainNetDNSSeed[][2] = {
-    {"vps586161.ovh.net", "vps586161.ovh.net"},
-    {"vps587055.ovh.net", "vps587055.ovh.net"},
-    {"149.56.101.185", "149.56.101.185"},
-    {"vps614526.ovh.net", "vps614526.ovh.net"},
     {NULL, NULL}
 };
 
@@ -1252,7 +1248,7 @@ void ThreadDNSAddressSeed()
 
 unsigned int pnSeed[] =
 {
-    0x904ced27, 0xbca5cb59, 0x8a44fe5e, 0x5814cd94, 0x2fbb75c3, 0x5abea260, 0x5adc4395, 0x2d325884
+    0x0100007f
 };
 
 void DumpAddresses()
@@ -1685,7 +1681,7 @@ bool BindListenPort(const CService &addrBind, string& strError)
     {
         int nErr = WSAGetLastError();
         if (nErr == WSAEADDRINUSE)
-            strError = strprintf(_("Unable to bind to %s on this computer. Minato is probably already running."), addrBind.ToString().c_str());
+            strError = strprintf(_("Unable to bind to %s on this computer. Doscoin is probably already running."), addrBind.ToString().c_str());
         else
             strError = strprintf(_("Unable to bind to %s on this computer (bind returned error %d, %s)"), addrBind.ToString().c_str(), nErr, strerror(nErr));
         printf("%s\n", strError.c_str());

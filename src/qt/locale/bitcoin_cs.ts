@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Minato</source>
-        <translation>O Minatou</translation>
+        <source>About Doscoin</source>
+        <translation>O Doscoinu</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Minato&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Minato&lt;/b&gt; verze</translation>
+        <source>&lt;b&gt;Doscoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Doscoin&lt;/b&gt; verze</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+0"/>
-        <source>The Minato developers</source>
-        <translation>Vývojáři Minatou</translation>
+        <source>The Doscoin developers</source>
+        <translation>Vývojáři Doscoinu</translation>
     </message>
 </context>
 <context>
@@ -67,8 +67,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Minato addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Tohle jsou tvé Minatoové adresy pro příjem plateb. Můžeš dát pokaždé každému plátci novou adresu, abys věděl, kdo ti kdy kolik platil.</translation>
+        <source>These are your Doscoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Tohle jsou tvé Doscoinové adresy pro příjem plateb. Můžeš dát pokaždé každému plátci novou adresu, abys věděl, kdo ti kdy kolik platil.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,8 +82,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Minato address</source>
-        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem Minatoové adresy</translation>
+        <source>Sign a message to prove you own a Doscoin address</source>
+        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem Doscoinové adresy</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,8 +107,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Minato address</source>
-        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Minatoovou adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified Doscoin address</source>
+        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Doscoinovou adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Minato addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tohle jsou tvé Minatoové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
+        <source>These are your Doscoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Tohle jsou tvé Doscoinové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -248,8 +248,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR MinatoS&lt;/b&gt;!</source>
-        <translation>Varování: Pokud si zašifruješ peněženku a ztratíš či zapomeneš heslo, &lt;b&gt;PŘIJDEŠ O VŠECHNY MinatoY&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DoscoinS&lt;/b&gt;!</source>
+        <translation>Varování: Pokud si zašifruješ peněženku a ztratíš či zapomeneš heslo, &lt;b&gt;PŘIJDEŠ O VŠECHNY DoscoinY&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -275,8 +275,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-56"/>
-        <source>Minato will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Minatos from being stolen by malware infecting your computer.</source>
-        <translation>Minato se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých Minatoů malwarem, kterým se může počítač nakazit.</translation>
+        <source>Doscoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Doscoins from being stolen by malware infecting your computer.</source>
+        <translation>Doscoin se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých Doscoinů malwarem, kterým se může počítač nakazit.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Minato</source>
-        <translation>Zobraz informace o Minatou</translation>
+        <source>Show information about Doscoin</source>
+        <translation>Zobraz informace o Doscoinu</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Minato address</source>
-        <translation>Pošli mince na Minatoovou adresu</translation>
+        <source>Send coins to a Doscoin address</source>
+        <translation>Pošli mince na Doscoinovou adresu</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Minato</source>
-        <translation>Uprav nastavení Minatou</translation>
+        <source>Modify configuration options for Doscoin</source>
+        <translation>Uprav nastavení Doscoinu</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Minato</source>
-        <translation>Minato</translation>
+        <source>Doscoin</source>
+        <translation>Doscoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Minato</source>
-        <translation>O &amp;Minatou</translation>
+        <source>&amp;About Doscoin</source>
+        <translation>O &amp;Doscoinu</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Minato addresses to prove you own them</source>
-        <translation>Podepiš zprávy svými Minatoovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
+        <source>Sign messages with your Doscoin addresses to prove you own them</source>
+        <translation>Podepiš zprávy svými Doscoinovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Minato addresses</source>
-        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými Minatoovými adresami</translation>
+        <source>Verify messages to ensure they were signed with specified Doscoin addresses</source>
+        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými Doscoinovými adresami</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+47"/>
-        <source>Minato client</source>
-        <translation>Minato klient</translation>
+        <source>Doscoin client</source>
+        <translation>Doscoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Minato network</source>
-        <translation><numerusform>%n aktivní spojení do Minatoové sítě</numerusform><numerusform>%n aktivní spojení do Minatoové sítě</numerusform><numerusform>%n aktivních spojení do Minatoové sítě</numerusform></translation>
+        <source>%n active connection(s) to Doscoin network</source>
+        <translation><numerusform>%n aktivní spojení do Doscoinové sítě</numerusform><numerusform>%n aktivní spojení do Doscoinové sítě</numerusform><numerusform>%n aktivních spojení do Doscoinové sítě</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -656,8 +656,8 @@ Adresa: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Minato address or malformed URI parameters.</source>
-        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná Minatoová adresa nebo poškozené parametry URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Doscoin address or malformed URI parameters.</source>
+        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná Doscoinová adresa nebo poškozené parametry URI.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,8 +671,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Minato can no longer continue safely and will quit.</source>
-        <translation>Stala se fatální chyba. Minato nemůže bezpečně pokračovat v činnosti, a proto skončí.</translation>
+        <source>A fatal error occurred. Doscoin can no longer continue safely and will quit.</source>
+        <translation>Stala se fatální chyba. Doscoin nemůže bezpečně pokračovat v činnosti, a proto skončí.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Adresa: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Minato address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; není platná Minatoová adresa.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Doscoin address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; není platná Doscoinová adresa.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Adresa: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Minato-Qt</source>
-        <translation>Minato-Qt</translation>
+        <source>Doscoin-Qt</source>
+        <translation>Doscoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Adresa: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Minato after logging in to the system.</source>
-        <translation>Automaticky spustí Minato po přihlášení do systému.</translation>
+        <source>Automatically start Doscoin after logging in to the system.</source>
+        <translation>Automaticky spustí Doscoin po přihlášení do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Minato on system login</source>
-        <translation>S&amp;pustit Minato po přihlášení do systému</translation>
+        <source>&amp;Start Doscoin on system login</source>
+        <translation>S&amp;pustit Doscoin po přihlášení do systému</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,7 +844,7 @@ Adresa: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Minato client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the Doscoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Automaticky otevře potřebný port na routeru. Tohle funguje jen za předpokladu, že tvůj router podporuje UPnP a že je UPnP povolené.</translation>
     </message>
     <message>
@@ -854,8 +854,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Minato network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Připojí se do Minatoové sítě přes SOCKS proxy (např. když se připojuje přes Tor).</translation>
+        <source>Connect to the Doscoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Připojí se do Doscoinové sítě přes SOCKS proxy (např. když se připojuje přes Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,8 +929,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Minato.</source>
-        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování Minatou.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Doscoin.</source>
+        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování Doscoinu.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -944,8 +944,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Minato addresses in the transaction list or not.</source>
-        <translation>Zda ukazovat Minatoové adresy ve výpisu transakcí nebo ne.</translation>
+        <source>Whether to show Doscoin addresses in the transaction list or not.</source>
+        <translation>Zda ukazovat Doscoinové adresy ve výpisu transakcí nebo ne.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,8 +996,8 @@ Adresa: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Minato.</source>
-        <translation>Nastavení se projeví až po restartování Minatou.</translation>
+        <source>This setting will take effect after restarting Doscoin.</source>
+        <translation>Nastavení se projeví až po restartování Doscoinu.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,8 +1015,8 @@ Adresa: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Minato network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s Minatoovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Doscoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s Doscoinovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1069,8 +1069,8 @@ Adresa: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start Minato: click-to-pay handler</source>
-        <translation>Nemůžu spustit Minato: obsluha click-to-pay</translation>
+        <source>Cannot start Doscoin: click-to-pay handler</source>
+        <translation>Nemůžu spustit Doscoin: obsluha click-to-pay</translation>
     </message>
 </context>
 <context>
@@ -1219,8 +1219,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Minato-Qt help message to get a list with possible Minato command-line options.</source>
-        <translation>Seznam parametrů Minatou pro příkazovou řádku získáš v nápovědě Minatou Qt.</translation>
+        <source>Show the Doscoin-Qt help message to get a list with possible Doscoin command-line options.</source>
+        <translation>Seznam parametrů Doscoinu pro příkazovou řádku získáš v nápovědě Doscoinu Qt.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1239,13 @@ Adresa: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Minato - Debug window</source>
-        <translation>Minato - ladicí okno</translation>
+        <source>Doscoin - Debug window</source>
+        <translation>Doscoin - ladicí okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Minato Core</source>
-        <translation>Jádro Minatou</translation>
+        <source>Doscoin Core</source>
+        <translation>Jádro Doscoinu</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,8 +1254,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Minato debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otevři soubor s ladicími záznamy Minatou z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
+        <source>Open the Doscoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otevři soubor s ladicími záznamy Doscoinu z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1264,8 +1264,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Minato RPC console.</source>
-        <translation>Vítej v Minatoové RPC konzoli.</translation>
+        <source>Welcome to the Doscoin RPC console.</source>
+        <translation>Vítej v Doscoinové RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1448,8 +1448,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Minato address (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
-        <translation>Zadej Minatoovou adresu (např. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
+        <source>Enter a Doscoin address (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
+        <translation>Zadej Doscoinovou adresu (např. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
     </message>
 </context>
 <context>
@@ -1513,8 +1513,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Minato address</source>
-        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této Minatoové adresy</translation>
+        <source>Sign the message to prove you own this Doscoin address</source>
+        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této Doscoinové adresy</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1549,8 +1549,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Minato address</source>
-        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Minatoovou adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified Doscoin address</source>
+        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Doscoinovou adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Adresa: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Minato address (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
-        <translation>Zadej Minatoovou adresu (např. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
+        <source>Enter a Doscoin address (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
+        <translation>Zadej Doscoinovou adresu (např. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Minato signature</source>
-        <translation>Vlož Minatoový podpis</translation>
+        <source>Enter Doscoin signature</source>
+        <translation>Vlož Doscoinový podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,8 +1649,8 @@ Adresa: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Minato developers</source>
-        <translation>Vývojáři Minatou</translation>
+        <source>The Doscoin developers</source>
+        <translation>Vývojáři Doscoinu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2187,8 +2187,8 @@ Adresa: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Minato version</source>
-        <translation>Verze Minatou</translation>
+        <source>Doscoin version</source>
+        <translation>Verze Doscoinu</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2197,8 +2197,8 @@ Adresa: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or Minatod</source>
-        <translation>Poslat příkaz pro -server nebo Minatod</translation>
+        <source>Send command to -server or doscoind</source>
+        <translation>Poslat příkaz pro -server nebo doscoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2217,13 +2217,13 @@ Adresa: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: Minato.conf)</source>
-        <translation>Konfigurační soubor (výchozí: Minato.conf)</translation>
+        <source>Specify configuration file (default: Doscoin.conf)</source>
+        <translation>Konfigurační soubor (výchozí: Doscoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: Minatod.pid)</source>
-        <translation>PID soubor (výchozí: Minatod.pid)</translation>
+        <source>Specify pid file (default: doscoind.pid)</source>
+        <translation>PID soubor (výchozí: doscoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2300,24 +2300,24 @@ Adresa: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=Minatorpc
+rpcuser=Doscoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Doscoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíš nastavit rpcpassword v konfiguračním souboru:
 %s
 Je vhodné použít následující náhodné heslo:
-rpcuser=Minatorpc
+rpcuser=Doscoinrpc
 rpcpassword=%s
 (není potřeba si ho pamatovat)
 rpcuser a rpcpassword NESMÍ být stejné.
 Pokud konfigurační soubor ještě neexistuje, vytvoř ho tak, aby ho mohl číst pouze vlastník.
 Je také doporučeno si nastavit alertnotify, abys byl upozorněn na případné problémy;
-například: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.com
+například: alertnotify=echo %%s | mail -s &quot;Doscoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2332,8 +2332,8 @@ například: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Minato is probably already running.</source>
-        <translation>Nedaří se mi získat zámek na datový adresář %s. Minato pravděpodobně už jednou běží.</translation>
+        <source>Cannot obtain a lock on data directory %s. Doscoin is probably already running.</source>
+        <translation>Nedaří se mi získat zámek na datový adresář %s. Doscoin pravděpodobně už jednou běží.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2377,8 +2377,8 @@ například: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Minato will not work properly.</source>
-        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, Minato nebude fungovat správně.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Doscoin will not work properly.</source>
+        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, Doscoin nebude fungovat správně.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2627,8 +2627,8 @@ například: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Minato Wiki for SSL setup instructions)</source>
-        <translation>Možnosti SSL: (viz instrukce nastavení SSL v Minato Wiki)</translation>
+        <source>SSL options: (see the Doscoin Wiki for SSL setup instructions)</source>
+        <translation>Možnosti SSL: (viz instrukce nastavení SSL v Doscoin Wiki)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,13 +2817,13 @@ například: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Minato</source>
-        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi Minatou</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Doscoin</source>
+        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi Doscoinu</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Minato to complete</source>
-        <translation>Soubor s peněženkou potřeboval přepsat: restartuj Minato, aby se operace dokončila</translation>
+        <source>Wallet needed to be rewritten: restart Doscoin to complete</source>
+        <translation>Soubor s peněženkou potřeboval přepsat: restartuj Doscoin, aby se operace dokončila</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2882,8 +2882,8 @@ například: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Minato is probably already running.</source>
-        <translation>Nedaří se mi připojit na %s na tomhle počítači. Minato už pravděpodobně jednou běží.</translation>
+        <source>Unable to bind to %s on this computer. Doscoin is probably already running.</source>
+        <translation>Nedaří se mi připojit na %s na tomhle počítači. Doscoin už pravděpodobně jednou běží.</translation>
     </message>
     <message>
         <location line="+64"/>

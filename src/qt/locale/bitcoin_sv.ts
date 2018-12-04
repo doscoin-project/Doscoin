@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Minato</source>
-        <translation>Om Minato</translation>
+        <source>About Doscoin</source>
+        <translation>Om Doscoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Minato&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Minato&lt;/b&gt;-version</translation>
+        <source>&lt;b&gt;Doscoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Doscoin&lt;/b&gt;-version</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -35,8 +35,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+0"/>
-        <source>The Minato developers</source>
-        <translation>Minato-utvecklarna</translation>
+        <source>The Doscoin developers</source>
+        <translation>Doscoin-utvecklarna</translation>
     </message>
 </context>
 <context>
@@ -68,8 +68,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Minato addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Detta är dina Minato-adresser för att ta emot betalningar.  Du kan ge varje avsändare en egen adress så att du kan hålla reda på vem som betalar dig.</translation>
+        <source>These are your Doscoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Detta är dina Doscoin-adresser för att ta emot betalningar.  Du kan ge varje avsändare en egen adress så att du kan hålla reda på vem som betalar dig.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -83,7 +83,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Minato address</source>
+        <source>Sign a message to prove you own a Doscoin address</source>
         <translation>Signera ett meddelande för att bevisa att du äger denna adress</translation>
     </message>
     <message>
@@ -108,8 +108,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Minato address</source>
-        <translation>Verifiera meddelandet för att vara säker på att den var signerad med den specificerade Minato-adressen</translation>
+        <source>Verify a message to ensure it was signed with a specified Doscoin address</source>
+        <translation>Verifiera meddelandet för att vara säker på att den var signerad med den specificerade Doscoin-adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -123,8 +123,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Minato addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Detta är dina Minato adresser för att skicka betalningar. Kolla alltid summan och den mottagande adressen innan du skickar Minatos.</translation>
+        <source>These are your Doscoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Detta är dina Doscoin adresser för att skicka betalningar. Kolla alltid summan och den mottagande adressen innan du skickar Doscoins.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -139,7 +139,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+1"/>
         <source>Send &amp;Coins</source>
-        <translation>Skicka &amp;Minatos</translation>
+        <translation>Skicka &amp;Doscoins</translation>
     </message>
     <message>
         <location line="+260"/>
@@ -249,7 +249,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR MinatoS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DoscoinS&lt;/b&gt;!</source>
         <translation>VARNING: Om du krypterar din plånbok och glömmer ditt lösenord, kommer du att &lt;b&gt;FÖRLORA ALLA DINA TILLGÅNGAR&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -276,7 +276,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-56"/>
-        <source>Minato will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Minatos from being stolen by malware infecting your computer.</source>
+        <source>Doscoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Doscoins from being stolen by malware infecting your computer.</source>
         <translation>Programmet kommer nu att stänga ner för att färdigställa krypteringen. Tänk på att en krypterad plånbok inte skyddar mot stöld om din dator är infekterad med en keylogger.</translation>
     </message>
     <message>
@@ -375,8 +375,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Minato</source>
-        <translation>Visa information om Minato</translation>
+        <source>Show information about Doscoin</source>
+        <translation>Visa information om Doscoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -420,13 +420,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Minato address</source>
-        <translation>Skicka mynt till en Minato-adress</translation>
+        <source>Send coins to a Doscoin address</source>
+        <translation>Skicka mynt till en Doscoin-adress</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Minato</source>
-        <translation>Ändra konfigurationsalternativ för Minato</translation>
+        <source>Modify configuration options for Doscoin</source>
+        <translation>Ändra konfigurationsalternativ för Doscoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -456,8 +456,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Minato</source>
-        <translation>Minato</translation>
+        <source>Doscoin</source>
+        <translation>Doscoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -481,8 +481,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Minato</source>
-        <translation>&amp;Om Minato</translation>
+        <source>&amp;About Doscoin</source>
+        <translation>&amp;Om Doscoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -501,13 +501,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Minato addresses to prove you own them</source>
-        <translation>Signera meddelanden med din Minatoadress för att bevisa att du äger dem</translation>
+        <source>Sign messages with your Doscoin addresses to prove you own them</source>
+        <translation>Signera meddelanden med din Doscoinadress för att bevisa att du äger dem</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Minato addresses</source>
-        <translation>Verifiera meddelanden för att vara säker på att de var signerade med den specificerade Minato-adressen</translation>
+        <source>Verify messages to ensure they were signed with specified Doscoin addresses</source>
+        <translation>Verifiera meddelanden för att vara säker på att de var signerade med den specificerade Doscoin-adressen</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -537,13 +537,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+47"/>
-        <source>Minato client</source>
-        <translation>Minato-klient</translation>
+        <source>Doscoin client</source>
+        <translation>Doscoin-klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Minato network</source>
-        <translation><numerusform>%n aktiv anslutning till Minato-nätverket</numerusform><numerusform>%n aktiva anslutningar till Minato-nätverket</numerusform></translation>
+        <source>%n active connection(s) to Doscoin network</source>
+        <translation><numerusform>%n aktiv anslutning till Doscoin-nätverket</numerusform><numerusform>%n aktiva anslutningar till Doscoin-nätverket</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -657,8 +657,8 @@ Adress: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Minato address or malformed URI parameters.</source>
-        <translation>URI går inte att tolkas! Detta kan orsakas av en ogiltig Minato-adress eller felaktiga URI parametrar.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Doscoin address or malformed URI parameters.</source>
+        <translation>URI går inte att tolkas! Detta kan orsakas av en ogiltig Doscoin-adress eller felaktiga URI parametrar.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -672,8 +672,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Minato can no longer continue safely and will quit.</source>
-        <translation>Ett allvarligt fel har uppstått. Minato kan inte längre köras säkert och kommer att avslutas.</translation>
+        <source>A fatal error occurred. Doscoin can no longer continue safely and will quit.</source>
+        <translation>Ett allvarligt fel har uppstått. Doscoin kan inte längre köras säkert och kommer att avslutas.</translation>
     </message>
 </context>
 <context>
@@ -738,8 +738,8 @@ Adress: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Minato address.</source>
-        <translation>Den angivna adressen &quot;%1&quot; är inte en giltig Minato-adress.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Doscoin address.</source>
+        <translation>Den angivna adressen &quot;%1&quot; är inte en giltig Doscoin-adress.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -757,8 +757,8 @@ Adress: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Minato-Qt</source>
-        <translation>Minato-Qt</translation>
+        <source>Doscoin-Qt</source>
+        <translation>Doscoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -820,13 +820,13 @@ Adress: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Minato after logging in to the system.</source>
-        <translation>Starta Minato automatiskt efter inloggning.</translation>
+        <source>Automatically start Doscoin after logging in to the system.</source>
+        <translation>Starta Doscoin automatiskt efter inloggning.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Minato on system login</source>
-        <translation>&amp;Starta Minato vid systemstart</translation>
+        <source>&amp;Start Doscoin on system login</source>
+        <translation>&amp;Starta Doscoin vid systemstart</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -845,8 +845,8 @@ Adress: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Minato client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt Minato-klientens port på routern. Detta fungerar endast om din router har UPnP aktiverat.</translation>
+        <source>Automatically open the Doscoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt Doscoin-klientens port på routern. Detta fungerar endast om din router har UPnP aktiverat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -855,8 +855,8 @@ Adress: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Minato network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Anslut till Minato-nätverket genom en SOCKS-proxy (t.ex. när du ansluter genom Tor).</translation>
+        <source>Connect to the Doscoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Anslut till Doscoin-nätverket genom en SOCKS-proxy (t.ex. när du ansluter genom Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -930,8 +930,8 @@ Adress: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Minato.</source>
-        <translation>Användargränssnittets språk kan ställas in här. Denna inställning träder i kraft efter en omstart av Minato.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Doscoin.</source>
+        <translation>Användargränssnittets språk kan ställas in här. Denna inställning träder i kraft efter en omstart av Doscoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -945,8 +945,8 @@ Adress: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Minato addresses in the transaction list or not.</source>
-        <translation>Anger om Minato-adresser skall visas i transaktionslistan.</translation>
+        <source>Whether to show Doscoin addresses in the transaction list or not.</source>
+        <translation>Anger om Doscoin-adresser skall visas i transaktionslistan.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -997,8 +997,8 @@ Adress: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Minato.</source>
-        <translation>Denna inställning träder i kraft efter en omstart av Minato.</translation>
+        <source>This setting will take effect after restarting Doscoin.</source>
+        <translation>Denna inställning träder i kraft efter en omstart av Doscoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1016,8 +1016,8 @@ Adress: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Minato network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara inaktuell. Plånboken synkroniseras automatiskt med Minato-nätverket efter att anslutningen är upprättad, men denna process har inte slutförts ännu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Doscoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara inaktuell. Plånboken synkroniseras automatiskt med Doscoin-nätverket efter att anslutningen är upprättad, men denna process har inte slutförts ännu.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1070,8 +1070,8 @@ Adress: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start Minato: click-to-pay handler</source>
-        <translation>Kan inte starta Minato: klicka-och-betala handhavare</translation>
+        <source>Cannot start Doscoin: click-to-pay handler</source>
+        <translation>Kan inte starta Doscoin: klicka-och-betala handhavare</translation>
     </message>
 </context>
 <context>
@@ -1220,8 +1220,8 @@ Adress: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Minato-Qt help message to get a list with possible Minato command-line options.</source>
-        <translation>Visa Minato-Qt hjälpmeddelande för att få en lista med möjliga Minato kommandoradsalternativ.</translation>
+        <source>Show the Doscoin-Qt help message to get a list with possible Doscoin command-line options.</source>
+        <translation>Visa Doscoin-Qt hjälpmeddelande för att få en lista med möjliga Doscoin kommandoradsalternativ.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1240,13 +1240,13 @@ Adress: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Minato - Debug window</source>
-        <translation>Minato - Debug fönster</translation>
+        <source>Doscoin - Debug window</source>
+        <translation>Doscoin - Debug fönster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Minato Core</source>
-        <translation>Minato Kärna</translation>
+        <source>Doscoin Core</source>
+        <translation>Doscoin Kärna</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1255,8 +1255,8 @@ Adress: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Minato debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna Minato debug-loggfilen som finns i datakatalogen. Detta kan ta några sekunder för stora loggfiler.</translation>
+        <source>Open the Doscoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna Doscoin debug-loggfilen som finns i datakatalogen. Detta kan ta några sekunder för stora loggfiler.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1265,8 +1265,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Minato RPC console.</source>
-        <translation>Välkommen till Minato RPC-konsollen.</translation>
+        <source>Welcome to the Doscoin RPC console.</source>
+        <translation>Välkommen till Doscoin RPC-konsollen.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1449,8 +1449,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Minato address (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
-        <translation>Ange en Minato-adress (t.ex. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
+        <source>Enter a Doscoin address (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
+        <translation>Ange en Doscoin-adress (t.ex. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
     </message>
 </context>
 <context>
@@ -1514,7 +1514,7 @@ Adress: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Minato address</source>
+        <source>Sign the message to prove you own this Doscoin address</source>
         <translation>Signera meddelandet för att bevisa att du äger denna adress</translation>
     </message>
     <message>
@@ -1550,8 +1550,8 @@ Adress: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Minato address</source>
-        <translation>Verifiera meddelandet för att vara säker på att den var signerad med den angivna Minato-adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified Doscoin address</source>
+        <translation>Verifiera meddelandet för att vara säker på att den var signerad med den angivna Doscoin-adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1566,8 +1566,8 @@ Adress: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Minato address (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
-        <translation>Ange en Minato-adress (t.ex. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
+        <source>Enter a Doscoin address (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
+        <translation>Ange en Doscoin-adress (t.ex. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1576,8 +1576,8 @@ Adress: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Minato signature</source>
-        <translation>Ange Minato-signatur</translation>
+        <source>Enter Doscoin signature</source>
+        <translation>Ange Doscoin-signatur</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1650,8 +1650,8 @@ Adress: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Minato developers</source>
-        <translation>Minato-utvecklarna</translation>
+        <source>The Doscoin developers</source>
+        <translation>Doscoin-utvecklarna</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2188,8 +2188,8 @@ Adress: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Minato version</source>
-        <translation>Minato version</translation>
+        <source>Doscoin version</source>
+        <translation>Doscoin version</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2198,8 +2198,8 @@ Adress: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or Minatod</source>
-        <translation>Skicka kommando till -server eller Minatod</translation>
+        <source>Send command to -server or doscoind</source>
+        <translation>Skicka kommando till -server eller doscoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2218,13 +2218,13 @@ Adress: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: Minato.conf)</source>
-        <translation>Ange konfigurationsfil (förvalt: Minato.conf)</translation>
+        <source>Specify configuration file (default: Doscoin.conf)</source>
+        <translation>Ange konfigurationsfil (förvalt: Doscoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: Minatod.pid)</source>
-        <translation>Ange pid fil (förvalt: Minatod.pid)</translation>
+        <source>Specify pid file (default: doscoind.pid)</source>
+        <translation>Ange pid fil (förvalt: doscoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2301,24 +2301,24 @@ Adress: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=Minatorpc
+rpcuser=Doscoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Doscoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, du behöver sätta ett rpclösensord i konfigurationsfilen:
 %s
 Det är rekommenderat att använda följande slumpade lösenord:
-rpcuser=Minatorpc
+rpcuser=Doscoinrpc
 rpcpassword=%s
 (du behöver inte komma ihåg lösenordet)
 Användarnamnet och lösenordet FÅR INTE bara detsamma.
 Om filen inte existerar, skapa den med enbart ägarläsbara filrättigheter.
 Det är också rekommenderat att sätta alertnotify så du meddelas om problem;
-till exempel: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.com
+till exempel: alertnotify=echo %%s | mail -s &quot;Doscoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2333,8 +2333,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Minato is probably already running.</source>
-        <translation>Kan inte låsa data-mappen %s. Minato körs förmodligen redan.</translation>
+        <source>Cannot obtain a lock on data directory %s. Doscoin is probably already running.</source>
+        <translation>Kan inte låsa data-mappen %s. Doscoin körs förmodligen redan.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2344,7 +2344,7 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.
     <message>
         <location line="+4"/>
         <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds!</source>
-        <translation>Fel: Denna transaktion kräver en transaktionsavgift på minst %s på grund av dess storlek, komplexitet, eller användning av senast mottagna Minatos!</translation>
+        <translation>Fel: Denna transaktion kräver en transaktionsavgift på minst %s på grund av dess storlek, komplexitet, eller användning av senast mottagna Doscoins!</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2378,8 +2378,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Minato will not work properly.</source>
-        <translation>Varning: Vänligen kolla så att din dators datum och tid är korrekt! Om din klocka går fel kommer Minato inte fungera korrekt.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Doscoin will not work properly.</source>
+        <translation>Varning: Vänligen kolla så att din dators datum och tid är korrekt! Om din klocka går fel kommer Doscoin inte fungera korrekt.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2628,8 +2628,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Minato Wiki for SSL setup instructions)</source>
-        <translation>SSL-inställningar: (se Minato-wikin för SSL-setup instruktioner)</translation>
+        <source>SSL options: (see the Doscoin Wiki for SSL setup instructions)</source>
+        <translation>SSL-inställningar: (se Doscoin-wikin för SSL-setup instruktioner)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2818,13 +2818,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Minato</source>
-        <translation>Fel vid inläsningen av wallet.dat: Plånboken kräver en senare version av Minato</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Doscoin</source>
+        <translation>Fel vid inläsningen av wallet.dat: Plånboken kräver en senare version av Doscoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Minato to complete</source>
-        <translation>Plånboken behöver skrivas om: Starta om Minato för att färdigställa</translation>
+        <source>Wallet needed to be rewritten: restart Doscoin to complete</source>
+        <translation>Plånboken behöver skrivas om: Starta om Doscoin för att färdigställa</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2869,7 +2869,7 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.
     <message>
         <location line="-6"/>
         <source>Insufficient funds</source>
-        <translation>Otillräckligt med Minatos</translation>
+        <translation>Otillräckligt med Doscoins</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2883,8 +2883,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Minato is probably already running.</source>
-        <translation>Det går inte att binda till %s på den här datorn. Minato är förmodligen redan igång.</translation>
+        <source>Unable to bind to %s on this computer. Doscoin is probably already running.</source>
+        <translation>Det går inte att binda till %s på den här datorn. Doscoin är förmodligen redan igång.</translation>
     </message>
     <message>
         <location line="+64"/>

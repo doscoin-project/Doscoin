@@ -155,7 +155,7 @@ OBJS= \
     obj/streebog.o \
 	obj/checkpointsync.o
 
-all: Minatod
+all: doscoind
 
 #
 # LevelDB support
@@ -189,11 +189,11 @@ obj/%.o: %.cpp
 	      -e '/^$$/ d' -e 's/$$/ :/' < $(@:%.o=%.d) >> $(@:%.o=%.P); \
 	  rm -f $(@:%.o=%.d)
 
-Minatod: $(OBJS:obj/%=obj/%)
+doscoind: $(OBJS:obj/%=obj/%)
 	$(LINK) $(xCXXFLAGS) -o $@ $^ $(xLDFLAGS) $(LIBS)
 
 clean:
-	-rm -f Minatod
+	-rm -f doscoind
 	-rm -f obj/*.o
 	-rm -f obj/*.P
 	-rm -f obj/build.h

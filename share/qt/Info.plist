@@ -3,7 +3,7 @@
 <plist version="0.9">
 <dict>
 	<key>CFBundleIconFile</key>
-	<string>Minato.icns</string>
+	<string>Doscoin.icns</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleGetInfoString</key>
@@ -15,19 +15,19 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleExecutable</key>
-	<string>Minato-Qt</string>
+	<string>Doscoin-Qt</string>
 	<key>CFBundleIdentifier</key>
-	<string>org.Minato.Minato-Qt</string>
+	<string>org.Doscoin.Doscoin-Qt</string>
         <key>CFBundleURLTypes</key>
         <array>
           <dict>
             <key>CFBundleTypeRole</key>
             <string>Editor</string>
             <key>CFBundleURLName</key>
-            <string>org.Minato.MinatoPayment</string>
+            <string>org.Doscoin.DoscoinPayment</string>
             <key>CFBundleURLSchemes</key>
             <array>
-              <string>Minato</string>
+              <string>Doscoin</string>
             </array>
           </dict>
         </array>

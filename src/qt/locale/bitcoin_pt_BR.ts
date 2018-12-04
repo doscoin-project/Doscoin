@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Minato</source>
-        <translation>Sobre o Minato</translation>
+        <source>About Doscoin</source>
+        <translation>Sobre o Doscoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Minato&lt;/b&gt; version</source>
-        <translation>Versão do &lt;b&gt;Minato&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Doscoin&lt;/b&gt; version</source>
+        <translation>Versão do &lt;b&gt;Doscoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL para uso no OpenS
     </message>
     <message>
         <location line="+0"/>
-        <source>The Minato developers</source>
-        <translation>Desenvolvedores do Minato</translation>
+        <source>The Doscoin developers</source>
+        <translation>Desenvolvedores do Doscoin</translation>
     </message>
 </context>
 <context>
@@ -67,8 +67,8 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL para uso no OpenS
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Minato addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Estes são os seus endereços Minato para receber pagamentos. Você pode querer enviar um endereço diferente para cada remetente, para acompanhar quem está pagando.</translation>
+        <source>These are your Doscoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Estes são os seus endereços Doscoin para receber pagamentos. Você pode querer enviar um endereço diferente para cada remetente, para acompanhar quem está pagando.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,8 +82,8 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL para uso no OpenS
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Minato address</source>
-        <translation>Assine uma mensagem para provar que você é dono de um endereço Minato</translation>
+        <source>Sign a message to prove you own a Doscoin address</source>
+        <translation>Assine uma mensagem para provar que você é dono de um endereço Doscoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,8 +107,8 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL para uso no OpenS
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Minato address</source>
-        <translation>Verificar mensagem para se assegurar que ela foi assinada pelo dono de um endereço Minato específico.</translation>
+        <source>Verify a message to ensure it was signed with a specified Doscoin address</source>
+        <translation>Verificar mensagem para se assegurar que ela foi assinada pelo dono de um endereço Doscoin específico.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL para uso no OpenS
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Minato addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estes são os seus endereços Minato para receber pagamentos. Você pode querer enviar um endereço diferente para cada remetente, para acompanhar quem está pagando.</translation>
+        <source>These are your Doscoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estes são os seus endereços Doscoin para receber pagamentos. Você pode querer enviar um endereço diferente para cada remetente, para acompanhar quem está pagando.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -248,8 +248,8 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL para uso no OpenS
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR MinatoS&lt;/b&gt;!</source>
-        <translation>Aviso: Se você criptografar sua carteira e perder sua senha, você vai &lt;b&gt;perder todos os seus MinatoS!&lt;/b&gt;</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DoscoinS&lt;/b&gt;!</source>
+        <translation>Aviso: Se você criptografar sua carteira e perder sua senha, você vai &lt;b&gt;perder todos os seus DoscoinS!&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -275,8 +275,8 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL para uso no OpenS
     </message>
     <message>
         <location line="-56"/>
-        <source>Minato will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Minatos from being stolen by malware infecting your computer.</source>
-        <translation>O Minato irá fechar agora para finalizar o processo de encriptação. Lembre-se de que encriptar sua carteira não protege totalmente suas Minatos de serem roubadas por malwares que tenham infectado o seu computador.</translation>
+        <source>Doscoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Doscoins from being stolen by malware infecting your computer.</source>
+        <translation>O Doscoin irá fechar agora para finalizar o processo de encriptação. Lembre-se de que encriptar sua carteira não protege totalmente suas Doscoins de serem roubadas por malwares que tenham infectado o seu computador.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL para uso no OpenS
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Minato</source>
-        <translation>Mostrar informação sobre Minato</translation>
+        <source>Show information about Doscoin</source>
+        <translation>Mostrar informação sobre Doscoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL para uso no OpenS
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Minato address</source>
-        <translation>Enviar moedas para um endereço Minato</translation>
+        <source>Send coins to a Doscoin address</source>
+        <translation>Enviar moedas para um endereço Doscoin</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Minato</source>
-        <translation>Modificar opções de configuração para Minato</translation>
+        <source>Modify configuration options for Doscoin</source>
+        <translation>Modificar opções de configuração para Doscoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL para uso no OpenS
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Minato</source>
-        <translation>Minato</translation>
+        <source>Doscoin</source>
+        <translation>Doscoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL para uso no OpenS
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Minato</source>
-        <translation>&amp;Sobre o Minato</translation>
+        <source>&amp;About Doscoin</source>
+        <translation>&amp;Sobre o Doscoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL para uso no OpenS
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Minato addresses to prove you own them</source>
-        <translation>Assine mensagems com seus endereços Minato para provar que você é dono deles</translation>
+        <source>Sign messages with your Doscoin addresses to prove you own them</source>
+        <translation>Assine mensagems com seus endereços Doscoin para provar que você é dono deles</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Minato addresses</source>
-        <translation>Verificar mensagens para se assegurar que elas foram assinadas pelo dono de Endereços Minato específicos</translation>
+        <source>Verify messages to ensure they were signed with specified Doscoin addresses</source>
+        <translation>Verificar mensagens para se assegurar que elas foram assinadas pelo dono de Endereços Doscoin específicos</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL para uso no OpenS
     </message>
     <message>
         <location line="+47"/>
-        <source>Minato client</source>
-        <translation>Cliente Minato</translation>
+        <source>Doscoin client</source>
+        <translation>Cliente Doscoin</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Minato network</source>
-        <translation><numerusform>%n conexão ativa na rede Minato</numerusform><numerusform>%n conexões ativas na rede Minato</numerusform></translation>
+        <source>%n active connection(s) to Doscoin network</source>
+        <translation><numerusform>%n conexão ativa na rede Doscoin</numerusform><numerusform>%n conexões ativas na rede Doscoin</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -655,8 +655,8 @@ Endereço: %4</translation>
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Minato address or malformed URI parameters.</source>
-        <translation>URI não pode ser decodificado! Isso pode ter sido causado por um endereço Minato inválido ou por parâmetros URI malformados.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Doscoin address or malformed URI parameters.</source>
+        <translation>URI não pode ser decodificado! Isso pode ter sido causado por um endereço Doscoin inválido ou por parâmetros URI malformados.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -670,8 +670,8 @@ Endereço: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Minato can no longer continue safely and will quit.</source>
-        <translation>Um erro fatal ocorreu. Minato não pode continuar em segurança e irá fechar.</translation>
+        <source>A fatal error occurred. Doscoin can no longer continue safely and will quit.</source>
+        <translation>Um erro fatal ocorreu. Doscoin não pode continuar em segurança e irá fechar.</translation>
     </message>
 </context>
 <context>
@@ -736,8 +736,8 @@ Endereço: %4</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Minato address.</source>
-        <translation>O endereço digitado &quot;%1&quot; não é um endereço Minato válido.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Doscoin address.</source>
+        <translation>O endereço digitado &quot;%1&quot; não é um endereço Doscoin válido.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -755,8 +755,8 @@ Endereço: %4</translation>
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Minato-Qt</source>
-        <translation>Minato-Qt</translation>
+        <source>Doscoin-Qt</source>
+        <translation>Doscoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -818,13 +818,13 @@ Endereço: %4</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Minato after logging in to the system.</source>
-        <translation>Iniciar Minato automaticamente após se logar no sistema.</translation>
+        <source>Automatically start Doscoin after logging in to the system.</source>
+        <translation>Iniciar Doscoin automaticamente após se logar no sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Minato on system login</source>
-        <translation>Iniciar Minato no login do sistema</translation>
+        <source>&amp;Start Doscoin on system login</source>
+        <translation>Iniciar Doscoin no login do sistema</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -843,8 +843,8 @@ Endereço: %4</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Minato client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir as portas do cliente Minato automaticamente no roteador. Isto só funcionará se seu roteador suportar UPnP e esta função estiver habilitada.</translation>
+        <source>Automatically open the Doscoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir as portas do cliente Doscoin automaticamente no roteador. Isto só funcionará se seu roteador suportar UPnP e esta função estiver habilitada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -853,8 +853,8 @@ Endereço: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Minato network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conectar à rede Minato através de um proxy SOCKS (ex. quando estiver usando através do Tor)</translation>
+        <source>Connect to the Doscoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conectar à rede Doscoin através de um proxy SOCKS (ex. quando estiver usando através do Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -928,8 +928,8 @@ Endereço: %4</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Minato.</source>
-        <translation>A língua da interface com usuário pode ser escolhida aqui. Esta configuração só surtirá efeito após reiniciar o Minato.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Doscoin.</source>
+        <translation>A língua da interface com usuário pode ser escolhida aqui. Esta configuração só surtirá efeito após reiniciar o Doscoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -939,12 +939,12 @@ Endereço: %4</translation>
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Escolha a unidade padrão de subdivisão para interface mostrar quando enviar Minatos.</translation>
+        <translation>Escolha a unidade padrão de subdivisão para interface mostrar quando enviar Doscoins.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Minato addresses in the transaction list or not.</source>
-        <translation>Mostrar ou não endereços Minato na lista de transações.</translation>
+        <source>Whether to show Doscoin addresses in the transaction list or not.</source>
+        <translation>Mostrar ou não endereços Doscoin na lista de transações.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -995,8 +995,8 @@ Endereço: %4</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Minato.</source>
-        <translation>Esta configuração surtirá efeito após reinicializar o aplicativo Minato</translation>
+        <source>This setting will take effect after restarting Doscoin.</source>
+        <translation>Esta configuração surtirá efeito após reinicializar o aplicativo Doscoin</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1014,8 +1014,8 @@ Endereço: %4</translation>
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Minato network after a connection is established, but this process has not completed yet.</source>
-        <translation>A informação mostrada pode estar desatualizada. Sua carteira sincroniza automaticamente com a rede Minato depois que a conexão é estabelecida, mas este processo pode não estar completo ainda.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Doscoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>A informação mostrada pode estar desatualizada. Sua carteira sincroniza automaticamente com a rede Doscoin depois que a conexão é estabelecida, mas este processo pode não estar completo ainda.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1068,8 +1068,8 @@ Endereço: %4</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start Minato: click-to-pay handler</source>
-        <translation>Não foi possível iniciar Minato: manipulador clique-para-pagar</translation>
+        <source>Cannot start Doscoin: click-to-pay handler</source>
+        <translation>Não foi possível iniciar Doscoin: manipulador clique-para-pagar</translation>
     </message>
 </context>
 <context>
@@ -1218,8 +1218,8 @@ Endereço: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Minato-Qt help message to get a list with possible Minato command-line options.</source>
-        <translation>Mostrar mensagem de ajuda do Minato-Qt para obter uma lista com possíveis opções da linha de comando do Minato.</translation>
+        <source>Show the Doscoin-Qt help message to get a list with possible Doscoin command-line options.</source>
+        <translation>Mostrar mensagem de ajuda do Doscoin-Qt para obter uma lista com possíveis opções da linha de comando do Doscoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1238,13 +1238,13 @@ Endereço: %4</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Minato - Debug window</source>
-        <translation>Minato - Janela de Depuração</translation>
+        <source>Doscoin - Debug window</source>
+        <translation>Doscoin - Janela de Depuração</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Minato Core</source>
-        <translation>Núcleo Minato</translation>
+        <source>Doscoin Core</source>
+        <translation>Núcleo Doscoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1253,8 +1253,8 @@ Endereço: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Minato debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Abrir o arquivo de log de depuração do Minato do diretório atual de dados. Isso pode levar alguns segundos para arquivos de log grandes.</translation>
+        <source>Open the Doscoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Abrir o arquivo de log de depuração do Doscoin do diretório atual de dados. Isso pode levar alguns segundos para arquivos de log grandes.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1263,8 +1263,8 @@ Endereço: %4</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Minato RPC console.</source>
-        <translation>Bem-vindo ao console Minato RPC.</translation>
+        <source>Welcome to the Doscoin RPC console.</source>
+        <translation>Bem-vindo ao console Doscoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1384,7 +1384,7 @@ Endereço: %4</translation>
     <message>
         <location line="+5"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Erro: A transação foi rejeitada. Isso pode acontecer se alguns dos Minatos de sua carteira já haviam sido gastos, por exemplo se você usou uma cópia do arquivo wallet.dat e alguns Minatos foram gastos na cópia mas não foram marcados como gastos aqui.</translation>
+        <translation>Erro: A transação foi rejeitada. Isso pode acontecer se alguns dos Doscoins de sua carteira já haviam sido gastos, por exemplo se você usou uma cópia do arquivo wallet.dat e alguns Doscoins foram gastos na cópia mas não foram marcados como gastos aqui.</translation>
     </message>
 </context>
 <context>
@@ -1447,8 +1447,8 @@ Endereço: %4</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Minato address (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
-        <translation>Digite um endereço Minato (exemplo: H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
+        <source>Enter a Doscoin address (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
+        <translation>Digite um endereço Doscoin (exemplo: H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
     </message>
 </context>
 <context>
@@ -1512,8 +1512,8 @@ Endereço: %4</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Minato address</source>
-        <translation>Assinar mensagem para provar que você é dono deste endereço Minato</translation>
+        <source>Sign the message to prove you own this Doscoin address</source>
+        <translation>Assinar mensagem para provar que você é dono deste endereço Doscoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1548,8 +1548,8 @@ Endereço: %4</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Minato address</source>
-        <translation>Verificar mensagem para se assegurar que ela foi assinada pelo dono de um endereço Minato específico.</translation>
+        <source>Verify the message to ensure it was signed with the specified Doscoin address</source>
+        <translation>Verificar mensagem para se assegurar que ela foi assinada pelo dono de um endereço Doscoin específico.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1564,8 +1564,8 @@ Endereço: %4</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Minato address (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
-        <translation>Digite um endereço Minato (exemplo: H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
+        <source>Enter a Doscoin address (e.g. H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</source>
+        <translation>Digite um endereço Doscoin (exemplo: H7QEPyCg1Yv3UZUALDha9bNYXuYbfMe9Lp)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1574,8 +1574,8 @@ Endereço: %4</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Minato signature</source>
-        <translation>Entre com a assinatura Minato</translation>
+        <source>Enter Doscoin signature</source>
+        <translation>Entre com a assinatura Doscoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1648,8 +1648,8 @@ Endereço: %4</translation>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Minato developers</source>
-        <translation>Desenvolvedores do Minato</translation>
+        <source>The Doscoin developers</source>
+        <translation>Desenvolvedores do Doscoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1783,7 +1783,7 @@ Endereço: %4</translation>
     <message>
         <location line="+3"/>
         <source>Generated coins must mature 120 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Minatos gerados precisam maturar por 120 blocos antes de serem gastos. Quando você gera este bloco, ele é difundido na rede para ser adicionado ao blockchain. Se ele falhar ao ser acrescentado no blockchain, seu estado mudará para &quot;não aceito&quot; e não poderá ser gasto. Isso pode ocasionamente acontecer se outro nó gerou um bloco poucos segundos antes do seu.</translation>
+        <translation>Doscoins gerados precisam maturar por 120 blocos antes de serem gastos. Quando você gera este bloco, ele é difundido na rede para ser adicionado ao blockchain. Se ele falhar ao ser acrescentado no blockchain, seu estado mudará para &quot;não aceito&quot; e não poderá ser gasto. Isso pode ocasionamente acontecer se outro nó gerou um bloco poucos segundos antes do seu.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2186,8 +2186,8 @@ Endereço: %4</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Minato version</source>
-        <translation>Versão do Minato</translation>
+        <source>Doscoin version</source>
+        <translation>Versão do Doscoin</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2196,8 +2196,8 @@ Endereço: %4</translation>
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or Minatod</source>
-        <translation>Enviar comando para -server ou Minatod</translation>
+        <source>Send command to -server or doscoind</source>
+        <translation>Enviar comando para -server ou doscoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2216,13 +2216,13 @@ Endereço: %4</translation>
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: Minato.conf)</source>
-        <translation>Especifique um arquivo de configurações (padrão: Minato.conf)</translation>
+        <source>Specify configuration file (default: Doscoin.conf)</source>
+        <translation>Especifique um arquivo de configurações (padrão: Doscoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: Minatod.pid)</source>
-        <translation>Especifique um arquivo de pid (padrão: Minatod.pid)</translation>
+        <source>Specify pid file (default: doscoind.pid)</source>
+        <translation>Especifique um arquivo de pid (padrão: doscoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2299,24 +2299,24 @@ Endereço: %4</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=Minatorpc
+rpcuser=Doscoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Doscoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, você deve especificar uma senha rpcpassword no arquivo de configuração:⏎
 %s⏎
 É recomendado que você use a seguinte senha aleatória:⏎
-rpcuser=Minatorpc⏎
+rpcuser=Doscoinrpc⏎
 rpcpassword=%s⏎
 (você não precisa lembrar esta senha)⏎
 O nome de usuário e a senha NÃO PODEM ser os mesmos.⏎
 Se o arquivo não existir, crie um com permissão de leitura apenas para o dono.⏎
 É recomendado também definir um alertnotify para que você seja notificado de problemas;⏎
-por exemplo: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.com⏎
+por exemplo: alertnotify=echo %%s | mail -s &quot;Doscoin Alert&quot; admin@foo.com⏎
 </translation>
     </message>
     <message>
@@ -2331,13 +2331,13 @@ por exemplo: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Minato is probably already running.</source>
-        <translation>Não foi possível obter exclusividade de escrita no endereço %s. O Minato provavelmente já está rodando.</translation>
+        <source>Cannot obtain a lock on data directory %s. Doscoin is probably already running.</source>
+        <translation>Não foi possível obter exclusividade de escrita no endereço %s. O Doscoin provavelmente já está rodando.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Error: The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Erro: A transação foi rejeitada. Isso pode acontecer se alguns dos Minatos de sua carteira já haviam sido gastos, por exemplo se você usou uma cópia do arquivo wallet.dat e alguns Minatos foram gastos na cópia mas não foram marcados como gastos aqui.</translation>
+        <translation>Erro: A transação foi rejeitada. Isso pode acontecer se alguns dos Doscoins de sua carteira já haviam sido gastos, por exemplo se você usou uma cópia do arquivo wallet.dat e alguns Doscoins foram gastos na cópia mas não foram marcados como gastos aqui.</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2376,8 +2376,8 @@ por exemplo: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Minato will not work properly.</source>
-        <translation>Cuidado: Por favor, verifique que a data e hora do seu computador estão corretas! If o seu relógio estiver errado, o Minato não irá funcionar corretamente.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Doscoin will not work properly.</source>
+        <translation>Cuidado: Por favor, verifique que a data e hora do seu computador estão corretas! If o seu relógio estiver errado, o Doscoin não irá funcionar corretamente.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2626,8 +2626,8 @@ por exemplo: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Minato Wiki for SSL setup instructions)</source>
-        <translation>Opções SSL: (veja a Wiki do Minato para instruções de configuração SSL)</translation>
+        <source>SSL options: (see the Doscoin Wiki for SSL setup instructions)</source>
+        <translation>Opções SSL: (veja a Wiki do Doscoin para instruções de configuração SSL)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2816,13 +2816,13 @@ por exemplo: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Minato</source>
-        <translation>Erro ao carregar wallet.dat: Carteira requer uma versão mais nova do Minato</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Doscoin</source>
+        <translation>Erro ao carregar wallet.dat: Carteira requer uma versão mais nova do Doscoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Minato to complete</source>
-        <translation>A Carteira precisou ser reescrita: reinicie o Minato para completar</translation>
+        <source>Wallet needed to be rewritten: restart Doscoin to complete</source>
+        <translation>A Carteira precisou ser reescrita: reinicie o Doscoin para completar</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2881,8 +2881,8 @@ por exemplo: alertnotify=echo %%s | mail -s &quot;Minato Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Minato is probably already running.</source>
-        <translation>Impossível vincular a %s neste computador. O Minato provavelmente já está rodando.</translation>
+        <source>Unable to bind to %s on this computer. Doscoin is probably already running.</source>
+        <translation>Impossível vincular a %s neste computador. O Doscoin provavelmente já está rodando.</translation>
     </message>
     <message>
         <location line="+64"/>

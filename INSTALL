@@ -1,9 +1,9 @@
-Building Minato
+Building Doscoin
 
-See doc/readme-qt.rst for instructions on building Minato-Qt,
+See doc/readme-qt.rst for instructions on building Doscoin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Minato.
+implementation of Doscoin.
 
-See doc/build-*.txt for instructions on building Minatod,
+See doc/build-*.txt for instructions on building doscoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Minato.
+implementation of Doscoin.
